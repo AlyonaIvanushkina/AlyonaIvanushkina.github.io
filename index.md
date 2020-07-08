@@ -1,6 +1,9 @@
 ## ITMO JS labs
 Ivanushkina Alyona Andreevna P41071
 
+| Код задания | Решение | Исходники |
+
+
 ### CART
  - [Задание](https://kodaktor.ru/g/cart)
  - [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/CART)
