@@ -1,7 +1,6 @@
 <template>
     <div>
         <input v-model="message" placeholder="Мы связаны!" class="button fit small" />
-        <hr>
         <input v-model="message" placeholder="Мы связаны!" class="button fit small" />
     </div>
 </template>
@@ -16,16 +15,18 @@
 
 <style>
     input {
-        width: 310px;
-        padding: 0.5em;
+        width: 300px;
+        padding: 10px;
         margin: 0.5em;
-        color: palevioletred;
-        background: papayawhip;
+        color: #076b12;
+        background: #effff2;
         border: none;
-        border-radius: 3px;
+        border-radius: 5px;
+        box-shadow: inset rgb(121, 119, 119) 0 0 3px;
     }
 
     input:focus {
-        border: 1px solid black;
+        background: #ffffff;
+        color: #660a0a;
     }
 </style>

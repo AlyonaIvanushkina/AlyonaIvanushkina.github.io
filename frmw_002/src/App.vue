@@ -1,24 +1,23 @@
 <template>
   <main id="app">
     <h3>Связанные компоненты на Vue</h3>
-    <TwoWayDataBinding/>
+    <RelatedInputs/>
   </main>
 </template>
 
 <script>
-  import TwoWayDataBinding from './components/TwoWayDataBinding.vue'
+  import RelatedInputs from './components/RelatedInputs.vue'
   export default {
     name: 'app',
     components: {
-      TwoWayDataBinding
+      RelatedInputs
     }
   }
 </script>
 
 <style>
   #app {
-    font-family: 'Avenir', Helvetica, Arial;
     text-align: center;
-    margin-top: 5%;
+    margin: 50px auto;
   }
 </style>
