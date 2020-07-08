@@ -1,31 +1,24 @@
 <template>
-    <main id="app">
-        <h3>Список задач</h3>
-        <TaskList/>
-    </main>
+  <div id="app">
+    <TaskManager />
+  </div>
 </template>
 
 <script>
-    import TaskList from './components/TaskList.vue'
+import TaskManager from './components/TaskManager.vue'
 
-    export default {
-        name: 'app',
-        components: {
-            TaskList
-        }
-    }
+export default {
+  name: 'App',
+  components: {
+    TaskManager
+  }
+}
 </script>
 
 <style>
-    body {
-        /* font-family: Karla, sans-serif; */
-        font-size: 16px;
-        margin: 0;
-    }
-
-    #app {
-        max-width: 510px;
-        margin: 50px auto;
-        padding: 0 10px;
-    }
+#app {
+    width: 300px;
+    color: #2c3e50;
+    margin: 60px auto;
+}
 </style>
