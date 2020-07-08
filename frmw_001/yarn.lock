@@ -3282,9 +3282,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"frmw_0@workspace:.":
+"frmw_001@workspace:.":
   version: 0.0.0-use.local
-  resolution: "frmw_0@workspace:."
+  resolution: "frmw_001@workspace:."
   dependencies:
     "@babel/core": ^7.10.4
     "@babel/preset-env": ^7.10.4
