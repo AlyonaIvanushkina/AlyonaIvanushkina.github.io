@@ -18,12 +18,12 @@ Ivanushkina Alyona Andreevna P41071
 | BABL_002 | [BABL_002](https://kodaktor.ru/babl_002) | [Кодактор](https://kodaktor.ru/bind02032018_f7e96) | |
 | EVNT_002 | [EVNT_002](https://kodaktor.ru/evnt_002) | [Кодактор](https://kodaktor.ru/evnt_0b3ae) | |
 | FRMW_00* |
-| | [FRMW_001](https://kodaktor.ru/frmw_001) | [WEB](https://alyonaivanushkina.github.io/frmv/frmw_001) | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_001) |
-| | [FRMW_002](https://kodaktor.ru/frmw_002) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_002) |
-| | [FRMW_003](https://kodaktor.ru/frmw_003) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_003) |
-| | [FRMW_004](https://kodaktor.ru/frmw_004) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_004) |
-| | [FRMW_005](https://kodaktor.ru/frmw_005) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_005) |
-| | [FRMW_006](https://kodaktor.ru/frmw_006) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_006) |
-| | [FRMW_007](https://kodaktor.ru/frmw_007) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_007) |
-| YOU | [YOU](https://kodaktor.ru/you) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/you) |
+| | [FRMW_001](https://kodaktor.ru/frmw_001) | [WEB]() | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_001) |
+| | [FRMW_002](https://kodaktor.ru/frmw_002) | [WEB]() | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_002) |
+| | [FRMW_003](https://kodaktor.ru/frmw_003) | [WEB]() | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_003) |
+| | [FRMW_004](https://kodaktor.ru/frmw_004) | [WEB]() | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_004) |
+| | [FRMW_005](https://kodaktor.ru/frmw_005) | [WEB]() | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_005) |
+| | [FRMW_006](https://kodaktor.ru/frmw_006) | [WEB]() | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_006) |
+| | [FRMW_007](https://kodaktor.ru/frmw_007) | [WEB]() | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_007) |
+| YOU | [YOU](https://kodaktor.ru/you) | [WEB]() | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/you) |
 | XMLT-001 | [XMLT-001](https://kodaktor.ru/g/xml_intro) | [Исходник](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/XMLT-001) |
