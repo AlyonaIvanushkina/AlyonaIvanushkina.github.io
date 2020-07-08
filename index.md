@@ -4,64 +4,35 @@ Ivanushkina Alyona Andreevna P41071
 | Код задания | Решение | Исходники |
 |-------------|---------|-----------|
 | [CART](https://kodaktor.ru/g/cart) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/CART) |
+| FUNC_00* |
+| [FUNC_001](https://kodaktor.ru/func_001) | [Исходник](https://github.com/AlyonaIvanushkina/ItmoJsLabs/blob/master/func/func_001.js) | |
+| [FUNC_002](https://kodaktor.ru/func_002) | [Исходник](https://github.com/AlyonaIvanushkina/ItmoJsLabs/blob/master/func/func_002.js) | |
+| [FUNC_003](https://kodaktor.ru/func_003) | [Кодактор](https://kodaktor.ru/func_a5272) | |
+| [FUNC_004](https://kodaktor.ru/func_004) | [Кодактор](https://kodaktor.ru/func_46131) | |
+| [FUNC_005](https://kodaktor.ru/func_005) | [Кодактор](https://kodaktor.ru/func_80e3f) | |
+| [FUNC_006](https://kodaktor.ru/func_006) | [Кодактор](https://kodaktor.ru/func_94183) | |
+| [FUNC_007](https://kodaktor.ru/func_007) | [Кодактор](https://kodaktor.ru/func_100bf) | |
+| [FUNC_008](https://kodaktor.ru/func_008) | [Кодактор](https://kodaktor.ru/func_e0da1) | |
+| [FUNC_009](https://kodaktor.ru/func_009) | [Кодактор](https://kodaktor.ru/func_f3d9a) | |
+| [FUNC_010](https://kodaktor.ru/func_010) | [Исходник](https://github.com/AlyonaIvanushkina/ItmoJsLabs/blob/master/func/func_010.js) | |
+| [ASYNC-TASKS](https://kodaktor.ru/async_tasks) | [Codepen](https://codepen.io/alyonaivanushkina/pen/yLeKvzB?editors=1111) | |
+| [BABL_002](https://kodaktor.ru/babl_002) | [Кодактор](https://kodaktor.ru/bind02032018_f7e96) | |
+| [EVNT_002](https://kodaktor.ru/evnt_002) | [Кодактор](https://kodaktor.ru/evnt_0b3ae) | |
+| [FRMW_001](https://kodaktor.ru/frmw_001) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_001) |
+|
+|
+|
+|
+|
+|
+|
+|
 
-### FUNC_00*
-#### func_001
- - [Задание](https://kodaktor.ru/func_001)
- - [Решение(исходник)](https://github.com/AlyonaIvanushkina/ItmoJsLabs/blob/master/func/func_001.js)
 
-#### func_002
- - [Задание](https://kodaktor.ru/func_002)
- - [Решение(исходник)](https://github.com/AlyonaIvanushkina/ItmoJsLabs/blob/master/func/func_002.js)
 
-#### func_003
- - [Задание](https://kodaktor.ru/func_003)
- - [Решение(Кодактор)](https://kodaktor.ru/func_a5272)
- 
-#### func_004
- - [Задание](https://kodaktor.ru/func_004)
- - [Решение(Кодактор)](https://kodaktor.ru/func_46131)
-
-#### func_005
- - [Задание](https://kodaktor.ru/func_005)
- - [Решение(Кодактор)](https://kodaktor.ru/func_80e3f)
- 
-#### func_006
- - [Задание](https://kodaktor.ru/func_006)
- - [Решение(Кодактор)](https://kodaktor.ru/func_94183)
- 
-#### func_007
- - [Задание](https://kodaktor.ru/func_007)
- - [Решение(Кодактор)](https://kodaktor.ru/func_100bf)
-
-#### func_008
- - [Задание](https://kodaktor.ru/func_008)
- - [Решение(Кодактор)](https://kodaktor.ru/func_e0da1)
- 
-#### func_009
- - [Задание](https://kodaktor.ru/func_009)
- - [Решение(Кодактор)](https://kodaktor.ru/func_f3d9a)
- 
-#### func_010
- - [Задание](https://kodaktor.ru/func_010)
- - [Решение(исходник)](https://github.com/AlyonaIvanushkina/ItmoJsLabs/blob/master/func/func_010.js)
-
-### ASYNC-TASKS
- - [Задание](https://kodaktor.ru/async_tasks)
- - [Решение(Codepen)](https://codepen.io/alyonaivanushkina/pen/yLeKvzB?editors=1111)
- 
-### BABL_002
- - [Задание](https://kodaktor.ru/babl_002)
- - [Решение(Кодактор)](https://kodaktor.ru/bind02032018_f7e96)
- 
-### EVNT_002
- - [Задание](https://kodaktor.ru/evnt_002)
- - [Решение(Кодактор)](https://kodaktor.ru/evnt_0b3ae)
- 
-### FRMW_00*
-#### frmw_001
- - [Задание](https://kodaktor.ru/frmw_001)
- - [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_001)
+#### 
+ - 
+ - 
  
 #### frmw_002
  - [Задание](https://kodaktor.ru/frmw_002)
