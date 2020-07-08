@@ -3,7 +3,7 @@ Ivanushkina Alyona Andreevna P41071
 
 | Код задания | Задание | Решение | Исходники |
 |-------------|---------|---------|-----------|
-| CART | [CART](https://kodaktor.ru/g/cart) | [WEB](https://alyonaivanushkina.github.io/CART/) | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/CART))|
+| CART | [CART](https://kodaktor.ru/g/cart) | [WEB](https://alyonaivanushkina.github.io/CART/) | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/CART)|
 | | [FUNC_001](https://kodaktor.ru/func_001) | [Исходник](https://github.com/AlyonaIvanushkina/ItmoJsLabs/blob/master/func/func_001.js) | |
 | | [FUNC_002](https://kodaktor.ru/func_002) | [Исходник](https://github.com/AlyonaIvanushkina/ItmoJsLabs/blob/master/func/func_002.js) | |
 | | [FUNC_003](https://kodaktor.ru/func_003) | [Кодактор](https://kodaktor.ru/func_a5272) | |
@@ -18,7 +18,7 @@ Ivanushkina Alyona Andreevna P41071
 | BABL_002 | [BABL_002](https://kodaktor.ru/babl_002) | [Кодактор](https://kodaktor.ru/bind02032018_f7e96) | |
 | EVNT_002 | [EVNT_002](https://kodaktor.ru/evnt_002) | [Кодактор](https://kodaktor.ru/evnt_0b3ae) | |
 | FRMW_00* |
-| | [FRMW_001](https://kodaktor.ru/frmw_001) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_001) |
+| | [FRMW_001](https://kodaktor.ru/frmw_001) | [WEB](https://alyonaivanushkina.github.io/frmv/frmw_001) | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_001) |
 | | [FRMW_002](https://kodaktor.ru/frmw_002) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_002) |
 | | [FRMW_003](https://kodaktor.ru/frmw_003) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_003) |
 | | [FRMW_004](https://kodaktor.ru/frmw_004) | | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_004) |
