@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h3>Vue mixer</h3>
+    <h3>Colour mixer</h3>
     <Mixer/>
   </div>
 </template>
