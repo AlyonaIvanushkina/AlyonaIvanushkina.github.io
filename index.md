@@ -4,6 +4,7 @@ Ivanushkina Alyona Andreevna P41071
 | Код задания | Задание | Решение | Исходники |
 |-------------|---------|---------|-----------|
 | CART | [CART](https://kodaktor.ru/g/cart) | [WEB](https://alyonaivanushkina.github.io/CART/) | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/CART)|
+| FUNC_00* |
 | | [FUNC_001](https://kodaktor.ru/func_001) | [Исходник](https://github.com/AlyonaIvanushkina/ItmoJsLabs/blob/master/func/func_001.js) | |
 | | [FUNC_002](https://kodaktor.ru/func_002) | [Исходник](https://github.com/AlyonaIvanushkina/ItmoJsLabs/blob/master/func/func_002.js) | |
 | | [FUNC_003](https://kodaktor.ru/func_003) | [Кодактор](https://kodaktor.ru/func_a5272) | |
