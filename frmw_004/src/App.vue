@@ -1,6 +1,5 @@
 <template>
     <main id="app">
-        <h3>Добавление степеней на Vue</h3>
         <Powers/>
     </main>
 </template>
@@ -17,8 +16,8 @@
 </script>
 
 <style>
-    main {
-        width: 600px;
-        margin: auto;
+    #app {
+        width: 400px;
+        margin: 40px auto;
     }
 </style>
