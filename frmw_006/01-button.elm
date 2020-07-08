@@ -35,8 +35,8 @@ update msg model =
 
 view : Model -> Html Msg
 view model =
-  div [style "padding" "20px", style "font-size" "20px", align "center"]
-    [ button [ style "margin" "20px", style "width" "40px", style "height" "40px", style "font-size" "1.3em", style "background" "rgb(216, 255, 240)", style "border-radius" "5px", onClick Decrement ] [ text "-" ]
-    , div [ style "display" "inline-block" ] [ text (String.fromInt model) ]
-    , button [ style "margin" "20px", style "width" "40px", style "height" "40px", style "font-size" "1.3em", style "background" "rgb(216, 255, 240)", style "border-radius" "5px", onClick Increment ] [ text "+" ]
+  div []
+    [ button [  onClick Decrement ] [ text "-" ]
+    , div [] [ text (String.fromInt model) ]
+    , button [ onClick Increment ] [ text "+" ]
     ]
