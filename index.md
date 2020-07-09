@@ -24,5 +24,5 @@ Ivanushkina Alyona Andreevna P41071
 | | [FRMW_005](https://kodaktor.ru/frmw_005) | [WEB](https://alyonaivanushkina.github.io/frmw_005/dist) | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_005) |
 | | [FRMW_006](https://kodaktor.ru/frmw_006) | [WEB](https://alyonaivanushkina.github.io/frmw_006) | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_006) |
 | | [FRMW_007](https://kodaktor.ru/frmw_007) | [WEB]() | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/frmv/frmw_007) |
-| YOU | [YOU](https://kodaktor.ru/you) | [WEB](https://alyonaivanushkina.github.io/you) | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/you) |
+| YOU | [YOU](https://kodaktor.ru/you) | [WEB](AlyonaIvanushkina.github.io/you) | [Исходники](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/you) |
 | XMLT-001 | [XMLT-001](https://kodaktor.ru/g/xml_intro) | [Исходник](https://github.com/AlyonaIvanushkina/ItmoJsLabs/tree/master/XMLT-001) |
