@@ -3,18 +3,25 @@ import React, {Component as C} from 'react';
 import styled from 'styled-components'
 
 const Button = styled.button`
-    background: white;
-    color: palevioletred;
-    font-size: 1em;
-    margin: 1em;
-    padding: 0.25em 1em;
-    border: 2px solid palevioletred;
-    border-radius: 3px;
+    min-width: 50px;
+    display: inline-block;
+    margin: 20px;
+    font-family: inherit;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676d7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 1rem;
+    cursor: pointer;
     &:hover {
-        cursor: pointer;
-        border: 2px solid brown;
-        &:active {
-            background: antiquewhite;
+        background: #1d49aa;
+        &:focus {
+            outline: none;
+            box-shadow: 0 0 0 4px #cbd6ee;
         }
     }
 `;
@@ -45,7 +52,7 @@ class Counter extends C {
     render() {
         return (
             <div>
-                <h3>Стармейкер</h3>
+                <h3>Autolinker</h3>
                 <hr/>
                 <Button onClick={() => this.plus()}>
                     <span role="img" aria-label="add">+</span>
